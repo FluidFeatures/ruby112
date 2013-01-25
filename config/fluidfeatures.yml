@@ -1,0 +1,18 @@
+common:
+  base_uri: https://www.fluidfeatures.com/service
+  cache:
+    enable: false
+    dir: tmp/fluidfeatures
+    limit: 10MB
+
+development:
+  app_id: 13114i8a4x97y
+  secret: 9cohPctj80uVw1L1Ir3WCWwf8TYnorCAWKcfeTr0
+
+production:
+  app_id: 13114i8a4x97y
+  secret: 9cohPctj80uVw1L1Ir3WCWwf8TYnorCAWKcfeTr0
+
+test:
+  app_id: 
+  secret: 
