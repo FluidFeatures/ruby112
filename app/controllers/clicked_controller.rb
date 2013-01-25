@@ -3,7 +3,7 @@ class ClickedController < ApplicationController
     fluidgoal "read-a"
     done
   end
-  def a
+  def b
     fluidgoal "read-b"
     done
   end
